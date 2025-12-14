@@ -1,0 +1,19 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    margin-top: 150px;
+    background-color: #5151c3;
+    color: #333;
+}
+h1 {
+    color: #1ca557;
+}
+.container {
+    padding: 50px;
+    background-color: rgb(168, 43, 43);
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.pato{
+    color: aqua;
+}
